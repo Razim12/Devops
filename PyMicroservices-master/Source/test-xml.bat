@@ -1,4 +1,4 @@
-REM SET PATH=%PATH%;c:\Users\nvmur\Appdata\Local\Programs\Python\Python37-32;c:\Users\nvmur\Appdata\Local\Programs\Python\Python37-32\Scripts
+SET PATH=%PATH%;D:\Anaconda\Python37-32;D:\Anaconda\Python37-32\Scripts;D:\Program Files\Git\bin;
 del C:\Users\RAZIM\Downloads\devops-master\devops-master\PyMicroservices-master\PyMicroservices-master\Source\python_tests_xml\*.*
 del C:\Users\RAZIM\Downloads\devops-master\devops-master\PyMicroservices-master\PyMicroservices-master\Source\coverage.xml
 cd C:\Users\RAZIM\Downloads\devops-master\devops-master\PyMicroservices-master\PyMicroservices-master\Source
